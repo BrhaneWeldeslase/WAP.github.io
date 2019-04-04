@@ -1,0 +1,32 @@
+
+
+h2{
+    color:blue;
+    font-family: Georgia;
+}
+
+ul,ol{
+    font-size:14px;
+    font-weight:100;
+    font-style:italic;
+    font-family: Garamond, "Times New Roman", serif;
+
+
+}
+.bodyBG{
+    background-color:rgb(65,70,40);
+    color : white;
+
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+p#intro::first-letter{
+    font-size: 200%;
+}
