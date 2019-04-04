@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="lab04Form.css" type="text/css" rel="stylesheet">
+
+
+
+
+</head>
+<body>
+
+<form>
+    <div>
+        <label> Task</label> <br>
+        <input type="text" name="breakfast" placeholder="Breakfast at tiffay" /><br>
+    </div>
+
+    <label> Required by</label>
+    <br>
+    <select>
+        <option> dd/mm/yyyy</option>
+        <option> 12/23//1990</option>
+        <option> 05/03//2000</option>
+    </select>
+    <br>
+
+
+    <label> Category</label><br>
+    <select>
+        <option> personal</option>
+        <option> Administrator</option>
+        <option> Director</option>
+    </select>
+    <br>
+
+
+    <input type="submit" value="Save Task"/>
+    <input type="reset" value="Clear Task"/>
+
+</form>
+
+<br>
+
+<table id="taskTable">
+
+    <div>
+    <tr class="rows">
+        <th> #</th>
+        <th> Name</th>
+        <th>Date</th>
+        <th>Category</th>
+    </tr>
+    </div>
+
+    <div>
+    <tr class="rows">
+        <td> 1</td>
+        <td> Brhane</td>
+        <td> 12/23/1998</td>
+        <td> Administrator</td>
+    </tr>
+    </div>
+
+    <div>
+    <tr class="rows">
+        <td> 2</td>
+        <td> filimon</td>
+        <td> 11/25/1987</td>
+        <td>Director</td>
+    </tr>
+    </div>
+
+    <div>
+    <tr class="rows">
+        <td> 3</td>
+        <td> yarm</td>
+        <td> 06/11/1999</td>
+        <td> student</td>
+    </tr>
+    </div>
+
+</table>
+
+<br>
+
+<div>
+    <input type="submit" value="Add Task"/>
+</div>
+
+
+</body>
+</html>
