@@ -1,0 +1,116 @@
+body{
+    background-image: url('background.png');
+    /*background-size: cover; */
+    font-family:  Verdana, Tahoma,  sans-serif;
+    font-size: 8pt;
+}
+#bannerIM{
+    background-image: url('bannerbg.png');
+    background-repeat: repeat-x;
+    /*  text-align:   center;*/
+}
+h1{
+    text-align: center;
+    font: 24pt bold;
+    text-shadow: 3px 3px  #999999;
+}
+#mainpage{
+    position:relative;
+    margin-right: auto;
+    margin-left:auto;
+    width:800px;
+    border: 4px solid gray;
+    border-radius: 20px;
+    overflow: auto;
+    height:1000px;
+    min-height:100%;
+    overflow-y: hidden;
+}
+#filmoverview{
+    position: absolute;
+    width:33%;
+    right:0px;
+    top:0px;
+    background-color:#A2B964;
+    width:250px;
+    height:100%;
+    font-size: 8pt;
+    font-family: Arial sans-serif;
+    margin-bottom: 0px;
+}
+#rotimage33{
+    background-image: url('rbg.png');
+    background-repeat: repeat-x;
+    padding-bottom: 25px;
+    height:  83px;
+    font :48pt  bold;
+    color: red;
+}
+#allcritic{
+    position:absolute;
+    right:250px;
+    height:100%;
+    width:67%;
+    padding-top:5px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+.onlycritic{
+    overflow: auto;
+    font: bold 8px;
+    background-color:  #E8DC9B;
+    border:gray solid 2px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+dl{
+    margin-left: 10pt;
+    margin-right: 10pt;
+}
+dt{
+    font-weight: bold;
+}
+dd{
+    margin-bottom: 8pt;
+}
+li{
+    list-style-type: none;
+}
+#validator{
+    position: fixed;
+    bottom: 0px;
+    right: 0%;
+}
+#leftside{
+    position: absolute;
+    right:0px;
+    top:0px;
+    width: 47%;
+    margin-left: 2%;
+    display: inline-block;
+    margin-right:5px;
+    margin-bottom:5px;
+}
+#rightside{
+    position: absolute;
+    left: 0px;
+    top:0px;
+    width: 47%;
+    margin-right: 2%;
+    display: inline-block;
+    margin-left:5px;
+    margin-bottom:15px;
+}
+#footer{
+    position:absolute;
+    bottom:0px;
+    width:100%;
+    height:30px;
+    background-color:#A2B964;
+    text-align: center;
+    margin-bottom: 0px;
+}

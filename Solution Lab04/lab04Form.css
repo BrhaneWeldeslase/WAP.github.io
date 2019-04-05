@@ -2,12 +2,18 @@
 
     border-collapse: collapse;
     border-spacing: 0;
-    width: 50%;
+    width: 40%;
     border: 1px solid #ddd;
 
    }
 
 tr:nth-child(even) {
     background-color: #f2f2f9
+}
+
+tr.rows{
+
+    text-align:center;
+
 }
 
