@@ -4,3 +4,11 @@ div#favMovie{
     margin: Auto;
 
 }
+
+h1#allAboutMe{
+
+    text-align: center;
+    text-decoration: underline;
+    color:dodgerblue;
+
+}
