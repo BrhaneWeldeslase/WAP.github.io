@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="742a1817-b2b8-4669-acc7-07258f15fcb4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Question Lab01 " beforeDir="false" afterPath="$PROJECT_DIR$/Question Lab01 " afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Question Lab01 /.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Question Lab01 /.idea/misc.xml" beforeDir="false" />
@@ -11,8 +12,6 @@
       <change beforePath="$PROJECT_DIR$/Question Lab01 /index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Question Lab01 /lesson01.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Question Lab01 /lesson1 status report.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution Lab01/Lab01.html" beforeDir="false" afterPath="$PROJECT_DIR$/Solution Lab01/Lab01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution Lab01/lab01.css" beforeDir="false" afterPath="$PROJECT_DIR$/Solution Lab01/lab01.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,29 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Solution Lab01/lab01.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Solution Lab01/Lab01.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+            <state relative-caret-position="476">
+              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -77,17 +58,16 @@
         <option value="$PROJECT_DIR$/Solution Lab05/myJavascriptFile.js" />
         <option value="$PROJECT_DIR$/Solution Lab05/lab05Solution.html" />
         <option value="$PROJECT_DIR$/Question Lab05/jsintrohelper.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Solution Lab01/lab01.css" />
         <option value="$PROJECT_DIR$/Solution Lab01/Lab01.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="827" />
-    <option name="y" value="27" />
-    <option name="width" value="853" />
-    <option name="height" value="962" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +88,11 @@
               <item name="WAP" type="462c0819:PsiDirectoryNode" />
               <item name="Solution Lab01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WAP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WAP" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution Lab06" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +104,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554520910812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554763977291" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -165,18 +150,19 @@
       <workItem from="1554442482264" duration="131000" />
       <workItem from="1554473493574" duration="217000" />
       <workItem from="1554489731281" duration="12152000" />
-      <workItem from="1554515286013" duration="5509000" />
+      <workItem from="1554515286013" duration="5689000" />
+      <workItem from="1554763397958" duration="437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28929000" />
+    <option name="totallyTimeSpent" value="29546000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="827" y="27" width="853" height="962" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="965" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.46362516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16300367" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -193,7 +179,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23103449" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23024055" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -280,13 +266,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Solution Lab05/lab05 solutions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Solution Lab05/lab05 solutions.js" />
     <entry file="file://$PROJECT_DIR$/Solution Lab05/lab05Solution.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -322,17 +302,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Solution Lab01/Lab01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Solution Lab01/Lab01.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="73" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+        <state relative-caret-position="476">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
