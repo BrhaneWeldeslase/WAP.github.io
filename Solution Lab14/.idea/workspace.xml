@@ -2,25 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8907e29-110e-4deb-ba3a-6890195e9193" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Question Lab01 " beforeDir="false" afterPath="$PROJECT_DIR$/../Question Lab01 " afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab11/out/artifacts/Solution_Lab11_war_exploded/WEB-INF/classes/lab11/ImprovedCalculatorServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab11/out/artifacts/Solution_Lab11_war_exploded/WEB-INF/classes/lab11/ImprovedCalculatorServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab11/out/production/Solution Lab11/lab11/ImprovedCalculatorServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab11/out/production/Solution Lab11/lab11/ImprovedCalculatorServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab11/src/calculator/ImprovedCalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab11/src/calculator/ImprovedCalculatorServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/Solution Lab12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/artifacts/Solution_Lab12_war_exploded/WEB-INF/classes/onlineQuize/RandomGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/artifacts/Solution_Lab12_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/artifacts/Solution_Lab12_war_exploded/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/production/Solution Lab12/onlineQuize/RandomGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/src/DB/Quizes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/src/onlineQuize/QuizeServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution Lab12/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/BeerAdvisor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/src/main/java/com/example/model/BeerExpert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/src/main/java/com/example/web/BeerSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/src/main/webapp/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/src/main/webapp/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/WEB-INF/classes/com/example/model/BeerExpert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/WEB-INF/classes/com/example/web/BeerSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/BeerAdvisor/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/classes/com/example/model/BeerExpert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeerAdvisor/target/classes/com/example/web/BeerSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/Ch3_BeerV1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/artifacts/unnamed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/classes/com/example/model/BeerExpert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/classes/com/example/web/BeerSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/compilar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/etc/directory/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/src/com/example/model/BeerExpert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/src/com/example/web/BeerSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/web/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch3_BeerV1/web/result.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/.idea/libraries/Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/customtaglab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/src/main/java/edu/mum/cs/CurrentDateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/src/main/webapp/WEB-INF/currenttimedate.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/classes/edu/mum/cs/CurrentDateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/customtaglab.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/customtaglab/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/customtaglab/WEB-INF/classes/edu/mum/cs/CurrentDateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/customtaglab/WEB-INF/currenttimedate.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/customtaglab/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customtaglab/target/customtaglab/index.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +69,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,9 +101,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,16 +168,17 @@
       <workItem from="1555658234395" duration="652000" />
       <workItem from="1555701145589" duration="542000" />
       <workItem from="1555887788375" duration="46000" />
+      <workItem from="1555953643073" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1240000" />
+    <option name="totallyTimeSpent" value="1276000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="965" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="973" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
