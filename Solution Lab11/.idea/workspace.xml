@@ -9,6 +9,16 @@
     <list default="true" id="c33fc28d-bc7c-4e14-889c-688318f9c3b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Question Lab01 " beforeDir="false" afterPath="$PROJECT_DIR$/../Question Lab01 " afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/ImprovedCalculatorServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/ImprovedCalculatorServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/artifacts/Solution_Lab12_war_exploded/WEB-INF/classes/onlineQuize/RandomGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/artifacts/Solution_Lab12_war_exploded/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/out/artifacts/Solution_Lab12_war_exploded/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/out/production/Solution Lab12/onlineQuize/RandomGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/src/DB/Quizes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/src/DB/Quizes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/src/onlineQuize/QuizeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/src/onlineQuize/QuizeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Solution Lab12/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution Lab12/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +30,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/calculator/improvedCalculatorServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/calculator/ImprovedCalculatorServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#695#709#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -56,6 +70,7 @@
         <option value="$PROJECT_DIR$/src/calculator/temp/ImprovedCalculatorServlet.java" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/src/calculator/improvedCalculatorServlet.java" />
+        <option value="$PROJECT_DIR$/src/calculator/ImprovedCalculatorServlet.java" />
       </list>
     </option>
   </component>
@@ -67,9 +82,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="818" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="964" />
+    <option name="width" value="862" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -78,6 +94,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,13 +110,18 @@
             <path>
               <item name="Solution Lab11" type="b2602c69:ProjectViewProjectNode" />
               <item name="Solution Lab11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Solution Lab11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Solution Lab11" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,11 +153,10 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Solution_Lab11_war_explodedz/" />
       <deployment>
         <artifact name="Solution Lab11:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Solution_Lab11_war_explodedz" />
+            <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
@@ -215,17 +236,22 @@
       <updated>1555460787418</updated>
       <workItem from="1555460792783" duration="690000" />
       <workItem from="1555483830752" duration="1614000" />
+      <workItem from="1555493197613" duration="330000" />
+      <workItem from="1555493899361" duration="174000" />
+      <workItem from="1555494141607" duration="81000" />
+      <workItem from="1555542306331" duration="77000" />
+      <workItem from="1555542401523" duration="3134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2304000" />
+    <option name="totallyTimeSpent" value="6100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="964" extended-state="0" />
+    <frame x="818" y="23" width="862" height="961" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49658704" weight="0.25274727" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49658704" weight="0.25177664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -235,13 +261,13 @@
       <window_info id="Web" order="7" sideWeight="0.50341296" side_tool="true" weight="0.25274727" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32912844" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33026466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32912844" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -301,15 +327,19 @@
     <entry file="file://$PROJECT_DIR$/src/calculator/temp/ImprovedCalculatorServlet.java" />
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculator/improvedCalculatorServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/calculator/ImprovedCalculatorServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="306">
+          <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#695#709#0" />
+          </folding>
         </state>
       </provider>
     </entry>
